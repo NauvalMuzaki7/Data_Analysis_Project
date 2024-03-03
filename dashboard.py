@@ -210,7 +210,7 @@ st.subheader('Data Analysis Project: Bike Sharing Dataset')
 #Adding Line Chart Trend Bike Users 2011 dan 2012
 ### Pertanyaan 2: How is the monthly trend of the total bike users in 2011 and 2012?
 st.subheader('')
-st.subheader('Annual Trend of Total Bike Users in 2011 and 2012')
+st.subheader('Monthly Trend of Total Bike Users in 2011 and 2012')
 col1, col2 = st.columns(2)
 
 with col1:
